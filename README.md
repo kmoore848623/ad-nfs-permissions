@@ -1,4 +1,6 @@
-![NFS_Permissions_Azure_Small](https://github.com/user-attachments/assets/c9e94a9a-f15e-46c1-b2bc-9bd9f322a049)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5d626f7-a6b5-4b5c-a6f0-5a88df85aae4" alt="ChatGPT Image Apr 9, 2025, 02_08_56 PM" width="300">
+</p>
 
 
 # Network File Shares and Permissions Using Azure Virtual Machines
