@@ -1,4 +1,4 @@
-![ChatGPT Image Apr 9, 2025, 01_46_24 PM](https://github.com/user-attachments/assets/be40b45d-975c-49fa-ac6e-043916f58c0a)
+![NFS_Permissions_Azure_Small](https://github.com/user-attachments/assets/c9e94a9a-f15e-46c1-b2bc-9bd9f322a049)
 
 
 # Network File Shares and Permissions Using Azure Virtual Machines
